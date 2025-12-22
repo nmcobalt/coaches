@@ -1,0 +1,19 @@
+{
+  "name": "Νίκος Μαυρομάτης",
+  "title": "Productivity & Balance Coach",
+  "bio": "Παραγωγικότητα χωρίς εξάντληση.",
+  "filename": "/markdown/coaches/nikos-details.mdx",
+  "image": "/images/coach-1.jpg",
+  "meta":{
+    "title": "Νίκος Μαυρομάτης - Productivity & Balance Coach",
+    "description": "Μάθετε πώς να αυξήσετε την παραγωγικότητά σας χωρίς να θυσιάζετε την ισορροπία στη ζωή σας.",
+    "image": "/images/coach-1.jpg",
+    "first_name": "Νίκος",
+    "last_name": "Μαυρομάτης"
+  },
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/nikosmauromatis",
+    "email": "nikos@nikosmauromatis.com",
+    "instagram": "https://www.instagram.com/nikosmauromatis"
+  }
+}

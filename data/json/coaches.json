@@ -1,0 +1,12 @@
+[
+  {
+    "id": "nm",
+    "name": "Νίκος Μαυρομάτης",
+    "title": "Productivity & Balance Coach",
+    "bio": "Παραγωγικότητα χωρίς εξάντληση.",
+    "bioComponent": "nikos",
+    "image": "/images/coach-1.jpg",
+    "pageLink": "/coaches/nikos-mauromatis",
+    "filename": "/markdown/coaches/nikos.mdx"
+  }
+]
