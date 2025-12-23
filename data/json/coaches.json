@@ -5,7 +5,7 @@
     "title": "Productivity & Balance Coach",
     "bio": "Παραγωγικότητα χωρίς εξάντληση.",
     "bioComponent": "nikos",
-    "image": "/images/coach-1.jpg",
+    "image": "https://res.cloudinary.com/dsdbeph62/image/upload/v1766479200/coach-1_pqh2cf.jpg",
     "pageLink": "/coaches/nikos-mavromatis",
     "filename": "nikos"
   }
