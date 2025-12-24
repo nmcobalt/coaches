@@ -1,0 +1,22 @@
+[
+  {
+    "id": "item-1",
+    "type": "image",
+    "title": "My Welcome Image",
+    "image": {
+      "url": "https://res.cloudinary.com/dsdbeph62/image/upload/v1766479200/coach-1_pqh2cf.jpg",
+      "alt": "Νίκος Μαυρομάτης"
+    },
+    "filename": ""
+  },
+  {
+    "id": "item-2",
+    "type": "article",
+    "title": "Coaches Welcome Article",
+    "image": {
+      "url": "",
+      "alt": ""
+    },
+    "filename": "welcome"
+  }
+]
