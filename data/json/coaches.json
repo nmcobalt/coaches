@@ -8,5 +8,15 @@
     "image": "https://res.cloudinary.com/dsdbeph62/image/upload/v1766479200/coach-1_pqh2cf.jpg",
     "pageLink": "/coaches/nikos-mavromatis",
     "filename": "nikos"
+  },
+  {
+    "id": "nm2",
+    "name": "Νίκος Μαυρομάτης 2",
+    "title": "Productivity & Balance Coach",
+    "bio": "Παραγωγικότητα χωρίς εξάντληση.",
+    "bioComponent": "nikos",
+    "image": "https://res.cloudinary.com/dsdbeph62/image/upload/v1766479200/coach-1_pqh2cf.jpg",
+    "pageLink": "/coaches/nikos-mavromatis",
+    "filename": "nikos"
   }
 ]
