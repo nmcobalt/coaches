@@ -6,6 +6,11 @@
       "url": "",
       "alt": ""
     },
-    "filename": "welcome"
+    "filename": "welcome",
+    "meta": {
+      "title": "Τι είναι το Coaching | Ελευθερία, ευθύνη και συνειδητή επιλογή",
+      "description": "Μια καθαρή προσέγγιση στο coaching που σέβεται την ελευθερία, απορρίπτει την παθητικότητα και υποστηρίζει τη συνειδητή ανάληψη ευθύνης.",
+      "image": "https://res.cloudinary.com/dsdbeph62/image/upload/v1767019462/coaching-welcome_ai4fhq.jpg"
+    }
   }
 ]
