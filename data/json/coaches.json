@@ -13,15 +13,15 @@
       "filename": "nikos"
     },
     {
-      "id": "nm2",
-      "name": "Νίκος Μαυρομάτης 2",
+      "id": "konstantinos-louizos-coach",
+      "name": "Κωνσταντίνος Λουίζος",
       "title": "Productivity & Balance Coach",
       "bio": "Παραγωγικότητα χωρίς εξάντληση.",
       "bioComponent": "nikos",
-      "image": "https://res.cloudinary.com/dsdbeph62/image/upload/v1766479200/coach-1_pqh2cf.jpg",
-      "pageLink": "/coaches/nikos-mavromatis",
+      "image": "https://res.cloudinary.com/dsdbeph62/image/upload/v1767466510/0-02-05-708e9c83fd10a4433b3c981af0f843f0d8c8b7f880cc98ac46fd61c97268cc54_46e343081977d00d_tytgg1.jpg",
+      "pageLink": "/coaches/konstantinos-louizos",
       "ctaText": "Μάθετε περισσότερα",
-      "filename": "nikos"
+      "filename": "konstantinos"
     }
   ]
 }
