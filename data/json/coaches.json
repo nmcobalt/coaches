@@ -22,6 +22,17 @@
       "pageLink": "/coaches/konstantinos-louizos",
       "ctaText": "Μάθετε περισσότερα",
       "filename": "konstantinos"
+    },
+    {
+      "id": "roza-theodoropoulou-coach",
+      "name": "Ρόζα Θεοδωροπούλου",
+      "title": "Life Coach | Η ευτυχία είναι επιλογή",
+      "bio": "Με περισσότερα από 30 χρόνια εργασιακής εμπειρίας σε πολλούς και ετερόκλητους επαγγελματικούς τομείς, δουλεύω με ανθρώπους που νιώθουν μπλοκαρισμένοι και θέλουν να κάνουν το επόμενο βήμα στη ζωή τους. Δεν προσφέρω έτοιμες ή μαγικές λύσεις. Προσφέρω χώρο, παρουσία και ουσιαστική υποστήριξη, ώστε να μπορέσεις να ανακαλύψεις τη δική σου καλύτερη εκδοχή. Πιστεύω βαθιά ότι η ευτυχία είναι επιλογή.",
+      "bioComponent": "roza",
+      "image": "https://res.cloudinary.com/dsdbeph62/image/upload/v1768726737/rosatheodor-thumb_bjjxd9.jpg",
+      "pageLink": "/coaches/roza-theodoropoulou",
+      "ctaText": "Μάθετε περισσότερα",
+      "filename": "roza"
     }
   ]
 }
